@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|c:\\users\\hyste.studielp-stefan\\onedrive\\documenten\\school\\c#\\natsim\\natsim\\grafischobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\grafischobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\dier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\dier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\gras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\gras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\leven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\leven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\frmnatsim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\frmnatsim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\natuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\natuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\frmnatsim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\frmnatsim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\planteneter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\planteneter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\lynx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\lynx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\ibewegendobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\ibewegendobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\konijn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\konijn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\alleseter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\alleseter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\koe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\koe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\vleeseter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\vleeseter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\snelheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\snelheid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\vingerhoedskruid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\vingerhoedskruid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\venijnboom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\venijnboom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\rechthoek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\rechthoek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\frmnatsim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\frmnatsim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\natsim\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88CD119-70C2-4B41-9571-5366C791E252}|NatSim\\NatSim.csproj|solutionrelative:natsim\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Natuur.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Natuur.cs",
+              "RelativeDocumentMoniker": "NatSim\\Natuur.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Natuur.cs",
+              "RelativeToolTip": "NatSim\\Natuur.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAawIUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:53:44.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmNatSim.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\FrmNatSim.cs",
+              "RelativeDocumentMoniker": "NatSim\\FrmNatSim.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\FrmNatSim.cs",
+              "RelativeToolTip": "NatSim\\FrmNatSim.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAD4v+IAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:23:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmNatSim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\FrmNatSim.cs",
+              "RelativeDocumentMoniker": "NatSim\\FrmNatSim.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\FrmNatSim.cs [Design]",
+              "RelativeToolTip": "NatSim\\FrmNatSim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:38:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gras.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Gras.cs",
+              "RelativeDocumentMoniker": "NatSim\\Gras.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Gras.cs",
+              "RelativeToolTip": "NatSim\\Gras.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:31:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Plant.cs",
+              "RelativeDocumentMoniker": "NatSim\\Plant.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Plant.cs",
+              "RelativeToolTip": "NatSim\\Plant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:59:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrafischObject.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\GrafischObject.cs",
+              "RelativeDocumentMoniker": "NatSim\\GrafischObject.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\GrafischObject.cs",
+              "RelativeToolTip": "NatSim\\GrafischObject.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv3YAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:20:29.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Leven.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Leven.cs",
+              "RelativeDocumentMoniker": "NatSim\\Leven.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Leven.cs",
+              "RelativeToolTip": "NatSim\\Leven.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:14:05.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Planteneter.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Planteneter.cs",
+              "RelativeDocumentMoniker": "NatSim\\Planteneter.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Planteneter.cs",
+              "RelativeToolTip": "NatSim\\Planteneter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:51:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dier.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Dier.cs",
+              "RelativeDocumentMoniker": "NatSim\\Dier.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Dier.cs",
+              "RelativeToolTip": "NatSim\\Dier.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:34:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lynx.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Lynx.cs",
+              "RelativeDocumentMoniker": "NatSim\\Lynx.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Lynx.cs",
+              "RelativeToolTip": "NatSim\\Lynx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:55:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBewegendObject.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\IBewegendObject.cs",
+              "RelativeDocumentMoniker": "NatSim\\IBewegendObject.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\IBewegendObject.cs",
+              "RelativeToolTip": "NatSim\\IBewegendObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:15:22.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Alleseter.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Alleseter.cs",
+              "RelativeDocumentMoniker": "NatSim\\Alleseter.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Alleseter.cs",
+              "RelativeToolTip": "NatSim\\Alleseter.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:57:05.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vleeseter.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Vleeseter.cs",
+              "RelativeDocumentMoniker": "NatSim\\Vleeseter.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Vleeseter.cs",
+              "RelativeToolTip": "NatSim\\Vleeseter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:35:37.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Konijn.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Konijn.cs",
+              "RelativeDocumentMoniker": "NatSim\\Konijn.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Konijn.cs",
+              "RelativeToolTip": "NatSim\\Konijn.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:33:02.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Koe.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Koe.cs",
+              "RelativeDocumentMoniker": "NatSim\\Koe.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Koe.cs",
+              "RelativeToolTip": "NatSim\\Koe.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:58:22.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Vingerhoedskruid.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Vingerhoedskruid.cs",
+              "RelativeDocumentMoniker": "NatSim\\Vingerhoedskruid.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Vingerhoedskruid.cs",
+              "RelativeToolTip": "NatSim\\Vingerhoedskruid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:33:10.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Venijnboom.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Venijnboom.cs",
+              "RelativeDocumentMoniker": "NatSim\\Venijnboom.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Venijnboom.cs",
+              "RelativeToolTip": "NatSim\\Venijnboom.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:04:38.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Snelheid.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Snelheid.cs",
+              "RelativeDocumentMoniker": "NatSim\\Snelheid.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Snelheid.cs",
+              "RelativeToolTip": "NatSim\\Snelheid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:41:24.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rechthoek.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Rechthoek.cs",
+              "RelativeDocumentMoniker": "NatSim\\Rechthoek.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Rechthoek.cs",
+              "RelativeToolTip": "NatSim\\Rechthoek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:53:33.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Program.cs",
+              "RelativeDocumentMoniker": "NatSim\\Program.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Program.cs",
+              "RelativeToolTip": "NatSim\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:45:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmNatSim.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\FrmNatSim.Designer.cs",
+              "RelativeDocumentMoniker": "NatSim\\FrmNatSim.Designer.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\FrmNatSim.Designer.cs",
+              "RelativeToolTip": "NatSim\\FrmNatSim.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:38:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Beer.cs",
+              "RelativeDocumentMoniker": "NatSim\\Beer.cs",
+              "ToolTip": "C:\\Users\\hyste.STUDIELP-STEFAN\\OneDrive\\Documenten\\School\\c#\\NatSim\\NatSim\\Beer.cs",
+              "RelativeToolTip": "NatSim\\Beer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:22:11.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
